@@ -4,8 +4,7 @@ We are working functionality
 Topic covered
 oops 
 multithreading
-costructor
-jdbc
+
 db
 
 need to upadate the code
