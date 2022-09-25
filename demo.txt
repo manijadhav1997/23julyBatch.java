@@ -1,1 +1,11 @@
 This is demo code for 23 july java batch
+
+We are working functionality
+Topic covered
+oops 
+multithreading
+costructor
+jdbc
+db
+
+need to upadate the code
