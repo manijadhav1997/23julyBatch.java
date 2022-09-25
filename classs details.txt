@@ -1,0 +1,3 @@
+class name velocity
+java batch
+ timing 7.30 am to 9.am
